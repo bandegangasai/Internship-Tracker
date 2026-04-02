@@ -22,10 +22,10 @@ A simple and efficient web application to track and manage internship applicatio
 - HTML, CSS, JavaScript  
 
 **Backend:**  
-- Node.js / Express *(if used)*  
+- Node.js / Express 
 
 **Database:**  
-- MongoDB / MySQL *(update if needed)*  
+- MongoDB / MySQL 
 
 ---
 
